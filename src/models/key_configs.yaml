@@ -1,0 +1,57 @@
+---
+config:
+  Arrow Keys:
+    Left: h
+    Right: l
+    Down: j
+    Up: k
+  Toggle Keys:
+    Toggle Action Mode: "`"
+    Toggle Alpha Mode: .
+    Toggle Record Mode: ESCAPE
+  Shortcuts:
+    a: COMMAND+SHIFT+3
+    b: COMMAND+a
+    c: COMMAND+v
+    d: COMMAND+v+RETURN
+    e: ""
+    f: SHIFT+CONTROL+COMMAND+3
+    g: ""
+    h: ~
+    i: ~
+    j: ~
+    k: ~
+    l: ~
+    m: ~
+    n: ~
+    o: ~
+    p: ~
+    q: ~
+    r: ~
+    s: ""
+    t: CONTROL+c
+    u: COMMAND+SHIFT+3
+    v: ~
+    w: ~
+    x: ~
+    y: ~
+    z: ~
+    1: CONTROL+c
+    2: ~
+    3: ~
+    4: ~
+    5: ~
+    6: ~
+    7: ~
+    8: ~
+    9: ~
+    0: ~
+    "-": ~
+    =: ~
+    /: ~
+    \: ~
+    .: ~
+    ",": ~
+    "[": ~
+    "]": ~
+    "`": ~
